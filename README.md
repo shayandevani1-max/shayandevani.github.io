@@ -1,4 +1,10 @@
 # shayandevani.github.io
+GOAT Court
+
+Sports trivia meets philosophy. A browser game for sports fans who like to argue.
+
+Play it:
+
 Games
 Daily Challenge: 10 new questions every day (NFL and NBA from Easy to Impossible, plus two fallacies), the same for everyone. One try per day, with a day streak, a shareable 🟩🟥 result grid and a daily leaderboard.
 NFL Trivia and NBA Trivia: four levels each (Easy, Medium, Hard, Impossible), with 8, 12 or 16 rounds. Harder levels give less time and multiply your points. Get three or more right in a row for streak bonuses.
