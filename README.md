@@ -6,7 +6,7 @@ Sports trivia meets philosophy. A browser game for sports fans who like to argue
 Play it:
 
 Games
-Daily Challenge: 10 new questions every day (NFL and NBA from Easy to Impossible, plus two fallacies), the same for everyone. One try per day, with a day streak, a shareable 🟩🟥 result grid and a daily leaderboard.
+Daily Challenge: 10 new questions every day (NFL and NBA from Easy to Impossible, plus two fallacies), the same for everyone. One try per day, with a day streak, a shareable result grid and a daily leaderboard.
 NFL Trivia and NBA Trivia: four levels each (Easy, Medium, Hard, Impossible), with 8, 12 or 16 rounds. Harder levels give less time and multiply your points. Get three or more right in a row for streak bonuses.
 17-0 mode (NFL) and 82-0 mode (NBA): pick your franchise, then draft a roster. Each slot asks for a real player from a random team and era (pick an era mode: random mix, 2010–present, 1995–2009 or pre-1995), and three any-era slots take any player at that position from the team shown, from any era. Type the name to sign him, with name suggestions as you type. You get one shot per slot (misspellings don't count), one Scout that shows every player who fits, and a 60- or 90-second draft clock. Your roster's rating then decides how the 17- or 82-game season plays out. Can you go undefeated?
 Guess the Fallacy: read a real-sounding sports hot take and name the logical fallacy behind it (straw man, post hoc, circular reasoning and more).
@@ -22,4 +22,4 @@ I also want to study philosophy, and sports debates are full of bad arguments. T
 
 How it works
 
-It's a single HTML file with no frameworks or build step: HTML, CSS and vanilla JavaScript. It has about 150 hand-checked trivia questions and a scouting database of about 3,500 player stints across the 1960s to today, from legends to current players, across every NFL and NBA franchise, each tagged by position, era and a rating. Personal bests are saved in the browser with localStorage, challenge codes use a seeded random number generator so the same code always builds the same game, and the leaderboards are stored in Google Firebase (Firestore). It adapts to light and dark mode and works on phones.
+It's a single HTML file with no frameworks or build step: HTML, CSS, and vanilla JavaScript. It has about 150 hand-checked trivia questions and a scouting database of about 3,500 player stints from the 1960s to today, from legends to current players, across every NFL and NBA franchise, each tagged by position, era, and a rating. Personal bests are saved in the browser with localStorage, challenge codes use a seeded random number generator so the same code always builds the same game, and the leaderboards are stored in Google Firebase (Firestore). It adapts to light and dark mode and works on phones.
